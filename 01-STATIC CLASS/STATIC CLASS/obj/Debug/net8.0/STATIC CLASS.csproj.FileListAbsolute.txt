@@ -1,0 +1,14 @@
+D:\C sharp\STATIC CLASS\STATIC CLASS\bin\Debug\net8.0\STATIC CLASS.exe
+D:\C sharp\STATIC CLASS\STATIC CLASS\bin\Debug\net8.0\STATIC CLASS.deps.json
+D:\C sharp\STATIC CLASS\STATIC CLASS\bin\Debug\net8.0\STATIC CLASS.runtimeconfig.json
+D:\C sharp\STATIC CLASS\STATIC CLASS\bin\Debug\net8.0\STATIC CLASS.dll
+D:\C sharp\STATIC CLASS\STATIC CLASS\bin\Debug\net8.0\STATIC CLASS.pdb
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.AssemblyInfoInputs.cache
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.AssemblyInfo.cs
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.csproj.CoreCompileInputs.cache
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.dll
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\refint\STATIC CLASS.dll
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.pdb
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\STATIC CLASS.genruntimeconfig.cache
+D:\C sharp\STATIC CLASS\STATIC CLASS\obj\Debug\net8.0\ref\STATIC CLASS.dll
