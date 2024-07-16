@@ -1,0 +1,14 @@
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\bin\Debug\net8.0\constructor_in_inheritance.exe
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\bin\Debug\net8.0\constructor_in_inheritance.deps.json
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\bin\Debug\net8.0\constructor_in_inheritance.runtimeconfig.json
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\bin\Debug\net8.0\constructor_in_inheritance.dll
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\bin\Debug\net8.0\constructor_in_inheritance.pdb
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.AssemblyInfoInputs.cache
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.AssemblyInfo.cs
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.csproj.CoreCompileInputs.cache
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.dll
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\refint\constructor_in_inheritance.dll
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.pdb
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\constructor_in_inheritance.genruntimeconfig.cache
+D:\C sharp\constructor_in_inheritance\constructor_in_inheritance\obj\Debug\net8.0\ref\constructor_in_inheritance.dll
