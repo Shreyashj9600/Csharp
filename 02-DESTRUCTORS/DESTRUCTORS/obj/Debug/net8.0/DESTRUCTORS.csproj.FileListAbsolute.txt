@@ -1,0 +1,14 @@
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\bin\Debug\net8.0\DESTRUCTORS.exe
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\bin\Debug\net8.0\DESTRUCTORS.deps.json
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\bin\Debug\net8.0\DESTRUCTORS.runtimeconfig.json
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\bin\Debug\net8.0\DESTRUCTORS.dll
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\bin\Debug\net8.0\DESTRUCTORS.pdb
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.AssemblyInfoInputs.cache
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.AssemblyInfo.cs
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.csproj.CoreCompileInputs.cache
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.dll
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\refint\DESTRUCTORS.dll
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.pdb
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\DESTRUCTORS.genruntimeconfig.cache
+D:\C sharp\DESTRUCTORS\DESTRUCTORS\obj\Debug\net8.0\ref\DESTRUCTORS.dll
