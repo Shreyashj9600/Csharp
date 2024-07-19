@@ -9,7 +9,14 @@
         {
             set
             {
-                UniversityName = value;
+                if (string.IsNullOrEmpty(value))
+                {
+                    Console.WriteLine("University name is not null or empty");
+                }
+                else
+                {
+                   UniversityName = value;
+                }
             }
             get
             {
@@ -40,7 +47,7 @@
     {
         static void Main(string[] args)
         {
-            University._UniversityName = "shivaji University Kolhapur";
+            University._UniversityName = "shivaji university kolhapur ";
             Console.WriteLine(University._UniversityName);
             University._DeparmentName = "computer deparment ";
             Console.WriteLine(University._DeparmentName );
