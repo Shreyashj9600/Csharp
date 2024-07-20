@@ -1,0 +1,14 @@
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\bin\Debug\net8.0\POLYMORPHISM Operator overloading.exe
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\bin\Debug\net8.0\POLYMORPHISM Operator overloading.deps.json
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\bin\Debug\net8.0\POLYMORPHISM Operator overloading.runtimeconfig.json
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\bin\Debug\net8.0\POLYMORPHISM Operator overloading.dll
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\bin\Debug\net8.0\POLYMORPHISM Operator overloading.pdb
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.AssemblyInfoInputs.cache
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.AssemblyInfo.cs
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.csproj.CoreCompileInputs.cache
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.dll
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\refint\POLYMORPHISM Operator overloading.dll
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.pdb
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\POLYMORPHISM Operator overloading.genruntimeconfig.cache
+D:\C sharp\POLYMORPHISM Operator overloading\POLYMORPHISM Operator overloading\obj\Debug\net8.0\ref\POLYMORPHISM Operator overloading.dll
