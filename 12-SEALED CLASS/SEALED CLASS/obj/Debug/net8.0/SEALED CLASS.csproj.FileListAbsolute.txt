@@ -1,0 +1,14 @@
+D:\C sharp\SEALED CLASS\SEALED CLASS\bin\Debug\net8.0\SEALED CLASS.exe
+D:\C sharp\SEALED CLASS\SEALED CLASS\bin\Debug\net8.0\SEALED CLASS.deps.json
+D:\C sharp\SEALED CLASS\SEALED CLASS\bin\Debug\net8.0\SEALED CLASS.runtimeconfig.json
+D:\C sharp\SEALED CLASS\SEALED CLASS\bin\Debug\net8.0\SEALED CLASS.dll
+D:\C sharp\SEALED CLASS\SEALED CLASS\bin\Debug\net8.0\SEALED CLASS.pdb
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.AssemblyInfoInputs.cache
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.AssemblyInfo.cs
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.csproj.CoreCompileInputs.cache
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.dll
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\refint\SEALED CLASS.dll
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.pdb
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\SEALED CLASS.genruntimeconfig.cache
+D:\C sharp\SEALED CLASS\SEALED CLASS\obj\Debug\net8.0\ref\SEALED CLASS.dll
