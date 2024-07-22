@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C sharp\\METHOD OVERRIDING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA702174-F68F-48A0-B6A2-30FEB01B716D}|METHOD OVERRIDING\\METHOD OVERRIDING.csproj|d:\\c sharp\\method overriding\\method overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA702174-F68F-48A0-B6A2-30FEB01B716D}|METHOD OVERRIDING\\METHOD OVERRIDING.csproj|solutionrelative:method overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C sharp\\METHOD OVERRIDING\\METHOD OVERRIDING\\Program.cs",
+              "RelativeDocumentMoniker": "METHOD OVERRIDING\\Program.cs",
+              "ToolTip": "D:\\C sharp\\METHOD OVERRIDING\\METHOD OVERRIDING\\Program.cs",
+              "RelativeToolTip": "METHOD OVERRIDING\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:23:17.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
