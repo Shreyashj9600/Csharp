@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SEALED METHOD/1.0.0": {
+        "runtime": {
+          "SEALED METHOD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEALED METHOD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
