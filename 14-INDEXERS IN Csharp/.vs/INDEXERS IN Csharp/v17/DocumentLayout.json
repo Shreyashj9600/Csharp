@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C sharp\\INDEXERS IN Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8EED81-4C17-467C-950E-487857E469BE}|INDEXERS IN Csharp\\INDEXERS IN Csharp.csproj|d:\\c sharp\\indexers in csharp\\indexers in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8EED81-4C17-467C-950E-487857E469BE}|INDEXERS IN Csharp\\INDEXERS IN Csharp.csproj|solutionrelative:indexers in csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C sharp\\INDEXERS IN Csharp\\INDEXERS IN Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "INDEXERS IN Csharp\\Program.cs",
+              "ToolTip": "D:\\C sharp\\INDEXERS IN Csharp\\INDEXERS IN Csharp\\Program.cs*",
+              "RelativeToolTip": "INDEXERS IN Csharp\\Program.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:44:04.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

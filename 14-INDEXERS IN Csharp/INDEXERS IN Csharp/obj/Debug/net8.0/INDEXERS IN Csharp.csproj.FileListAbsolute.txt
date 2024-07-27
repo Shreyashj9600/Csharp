@@ -1,0 +1,14 @@
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\bin\Debug\net8.0\INDEXERS IN Csharp.exe
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\bin\Debug\net8.0\INDEXERS IN Csharp.deps.json
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\bin\Debug\net8.0\INDEXERS IN Csharp.runtimeconfig.json
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\bin\Debug\net8.0\INDEXERS IN Csharp.dll
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\bin\Debug\net8.0\INDEXERS IN Csharp.pdb
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.AssemblyInfoInputs.cache
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.AssemblyInfo.cs
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.csproj.CoreCompileInputs.cache
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.dll
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\refint\INDEXERS IN Csharp.dll
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.pdb
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\INDEXERS IN Csharp.genruntimeconfig.cache
+D:\C sharp\INDEXERS IN Csharp\INDEXERS IN Csharp\obj\Debug\net8.0\ref\INDEXERS IN Csharp.dll
