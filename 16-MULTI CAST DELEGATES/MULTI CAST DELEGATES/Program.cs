@@ -8,7 +8,7 @@
             int result = a + b;
             Console.WriteLine("Addation result is " + result);
         }
-        public static void Addation(int a, int b)
+        public static void Subtraction(int a, int b)
         {
             int result = a - b;
             Console.WriteLine("Subtraction result is " + result);
@@ -25,8 +25,12 @@
         }
         static void Main(string[] args)
         {
-            Program.Addation(1, 2);
-            Program.Subtraction(1, 2);
+            Calculation obj = new Calculation(Addation);
+            obj += Subtraction;
+            obj += Multiplaction;
+            obj += Division;
+            obj(20, 10);
+
 
             Console.ReadLine();
         }
